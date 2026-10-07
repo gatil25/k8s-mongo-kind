@@ -104,4 +104,4 @@ The credentials in `mongo-secret.yaml` are **demo placeholder values** (`usernam
 
 ## Screenshot
 
-<!-- ![Mongo Express](screenshot.png) -->
+![Mongo Express](screenshot.png) -->
